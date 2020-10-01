@@ -1,2 +1,2 @@
 # website
-Python Medellin website
+A Medellin website built using python.
